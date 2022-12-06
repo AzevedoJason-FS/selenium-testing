@@ -5,6 +5,7 @@
 ```shell
 npm i
 npm start
+npm test
 ```
 
 See [NodeJS](http://nodejs.org) for details
